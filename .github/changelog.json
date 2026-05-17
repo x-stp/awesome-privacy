@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T13:04:50Z",
+  "generatedAt": "2026-05-17T19:20:28Z",
   "processedShas": [
     "02125ec429ec1ce9c5acdec1604703cb058a7887",
     "02231fb0a59ee43f93c6d0143640284cb7587d71",
@@ -225,7 +225,8 @@
     550,
     551,
     552,
-    554
+    554,
+    557
   ],
   "entries": [
     {
@@ -4660,6 +4661,16 @@
     }
   ],
   "rejections": [
+    {
+      "date": "2026-05-17",
+      "title": "Add Koaich to Team Collaboration",
+      "pr": {
+        "number": 557,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/557",
+        "author": "heysteamer",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/195606194?v=4"
+      }
+    },
     {
       "date": "2026-05-16",
       "title": "Add firefox-stealth (Firefox hardening patches) to Browsers",
